@@ -1,4 +1,4 @@
-## 🚀 Hello I'm Aria !
+## 🚀 Hello I'm Ariane !
 ### 🛠️ About Me
 
 I am a Maths, CS and Physics Student, passionate about low-level development, cybersecurity, electronics, embedded systems, and signal processing, I aim to explore the intersection of hardware and software to push the boundaries of computing. Whether it's reverse engineering a firmware, designing a CPU from scratch, or analyzing signals in real-time, I thrive on deep technical challenges.
