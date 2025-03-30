@@ -1,4 +1,5 @@
-## Hello ! I'm Aria 🚀 | Low-level prog, Comp sci., Cybersecurity, Electronics & Signal Processing Enthusiast
+## Hello ! I'm Aria 🚀 
+## Low-level prog, Comp sci., Cybersecurity, Electronics & Signal Processing Enthusiast
 <!--
 **0xSylcha/0xSylcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
