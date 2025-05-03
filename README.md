@@ -13,7 +13,7 @@ My goal is to become a research engineer and use science to make the world a bet
 * 📚 Learning new things, and more project coming later ...
 
 ### 📫 How to contact me
-* Discord : sylcha
+* Discord : 0xcataria
 * Email : bonjour.ariane.ing@gmail.com
 
 <!--
