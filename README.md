@@ -5,8 +5,6 @@ I am a robotics engineering Student, passionate about low-level development, cyb
 My goal is to become a research engineer and use science to make the world a better place. ✨
 
 ### 🔭 Future project and goals
-* 🖥️ Custom 8 bits CPU with RAM and I/O.
-* 🩺 Exploring biomedical engineering applications in embedded systems.
 * 📚 Learning new things, and more project coming later ...
 
 ### 📫 How to contact me
